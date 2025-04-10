@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Berat Metehan Çakmak
 
-<!--
-**cakmakbm/cakmakbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineering student at Marmara University in Turkey.  
+💻 I’m interested in software development, algorithms, and system architecture.  
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚗 [TrafficSimulatorGame](https://github.com/cakmakbm/TrafficSimulatorGame) – A traffic simulation game built with Java
+
+## 📫 Contact Me
+
+- ✉️ cakmak.metehan58@gmail.com  
+- 🔗 [GitHub Profile](https://github.com/cakmakbm)
